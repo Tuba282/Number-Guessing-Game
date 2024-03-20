@@ -1,0 +1,19 @@
+{
+  "name": "number_guessing_game_of_tubajan",
+  "version": "1.0.0",
+  "description": "This is number guessing game in CLI( command line interface )",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "the great TUBA JAN",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
